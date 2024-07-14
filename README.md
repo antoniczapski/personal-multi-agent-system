@@ -17,6 +17,9 @@ cd personal-multi-agent-system
 # follow setup instructions
 ```
 
+### Tuneling
+Install Ngrok for server tuneling. It connects server running locally on your machine with the internet and serves as the backend to slack api calls. Before running it, you will have to create free account on https://ngrok.com/. There you will have to get authentication token and pass it to termianl. To do this, navigate to directory where you have ngrok.exe and execute `ngrok authtoken YOUR_AUTHTOKEN`. Now you are ready to run tuneling `ngrok http 3000`. 
+
 ## Contributors
 
 Antoni Czapski
