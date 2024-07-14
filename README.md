@@ -16,3 +16,7 @@ git clone https://github.com/yourusername/personal-multi-agent-system.git
 cd personal-multi-agent-system
 # follow setup instructions
 ```
+
+## Contributors
+
+Antoni Czapski
