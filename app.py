@@ -1,9 +1,10 @@
 from flask import Flask, request, jsonify
 import requests
+import os
+import agent
 
 app = Flask(__name__)
-
-SLACK_TOKEN = 'xoxb-7148644545494-7433135074481-HpLXAnRnOAOu3SnGHOYv2hZH'
+SLACK_TOKEN = os.getenv("SLACK_TOKEN")
 
 @app.route('/slack/events', methods=['POST'])
 def slack_events():
@@ -19,7 +20,7 @@ def slack_events():
             thread_ts = event.get('thread_ts') or event['ts']
 
             # Respond in a thread
-            response_message = user_message  # Echo the user's message
+            response_message = agent.qa(user_message) # Echo the user's message
             response_url = 'https://slack.com/api/chat.postMessage'
             headers = {'Authorization': 'Bearer ' + SLACK_TOKEN}
             data = {
