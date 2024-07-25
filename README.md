@@ -48,6 +48,15 @@ For deployment to dockerhub:
 
 `docker push antonidabrowski/slack-flask-app:latest`
 
+### Agents
+
+v0: GPT-4mini + system prompt
+
+v1: 1-1-1 response : judge : correction (based on GPT-4mini)
+
+v2: AutoGen - multiagent
+
+
 ## Contributors
 
 Antoni Czapski
