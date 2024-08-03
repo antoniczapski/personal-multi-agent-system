@@ -7,7 +7,9 @@ import os
 from functools import wraps
 from psycopg2 import IntegrityError
 
-load_dotenv()  # Load environment variables from .env file
+dot_env_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
+print(f"Loading environment variables from: {dot_env_path}")
+load_dotenv(dotenv_path=dot_env_path)
 
 app = Flask(__name__)
 
@@ -17,6 +19,7 @@ DB_HOST = os.getenv("DB_HOST")
 DB_NAME = os.getenv("POSTGRES_DB")   # Updated to match .env naming
 DB_USER = os.getenv("POSTGRES_USER") # Updated to match .env naming
 DB_PASS = os.getenv("POSTGRES_PASSWORD") # Updated to match .env naming
+DB_PORT = os.getenv("DB_PORT", "5000")
 
 def require_api_key(f):
     @wraps(f)
@@ -33,8 +36,22 @@ def get_db_connection():
         host=DB_HOST,
         database=DB_NAME,
         user=DB_USER,
-        password=DB_PASS)
+        password=DB_PASS,
+        port=DB_PORT)
     return conn
+
+@app.route('/test_db_connection')
+def test_db_connection():
+    try:
+        conn = get_db_connection()
+        cur = conn.cursor()
+        cur.execute('SELECT 1')  # Simple query to test connectivity
+        cur.fetchall()
+        cur.close()
+        conn.close()
+        return jsonify({'message': 'Successfully connected to the database'}), 200
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 @app.route('/add_message', methods=['POST'])
 @require_api_key
@@ -207,6 +224,11 @@ def delete_user(user_id):
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', debug=False)
+    app.run(host='0.0.0.0', debug=True)
+    # test connection on startup
+    response = test_db_connection()
+    # log the result
+    logging.info(response)
+    
     # Uncomment to test population on startup
     # populate_database()
