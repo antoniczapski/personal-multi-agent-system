@@ -1,0 +1,61 @@
+message_id,user_id,message_content,timestamp,is_user_message
+1,user1,"Hello, how can I help you?",2024-08-03 11:05:38.759323,True
+2,user2,What are your service hours?,2024-08-03 11:05:38.759323,True
+3,user1,Thank you!,2024-08-03 11:05:38.759323,True
+4,user3,Let's update this file!,2024-08-03 11:20:00.123456,True
+5,user4,Let's update this 123123123 file!,2024-08-03 11:20:00.123456,True
+6,D07EE720WE8,"jeden, dwa, trzy",2024-08-03 23:01:44.391097,True
+7,D07EE720WE8,Cztery! Jak mogę Ci pomóc?,2024-08-03 23:01:44.420388,False
+8,D07EE720WE8,Co napisałem w poprzedniej wiadomości?,2024-08-03 23:02:10.775616,True
+9,D07EE720WE8,"Przykro mi, ale nie mam dostępu do wcześniejszych wiadomości ani do historii rozmów. Mogę jednak pomóc odpowiedzieć na Twoje pytania lub omówić konkretne tematy. Jak mogę Ci pomóc?",2024-08-03 23:02:10.802054,False
+10,D07EE720WE8,"No, cześć",2024-08-03 23:04:06.169814,True
+11,D07EE720WE8,Cześć! Jak mogę ci pomóc dzisiaj?,2024-08-03 23:04:06.199368,False
+12,U07EBJYBG4T,"jeden, dwa, trzy, cztery",2024-08-03 23:08:10.113376,True
+13,U07EBJYBG4T,"Wygląda na to, że liczysz po polsku! ""Jeden, dwa, trzy, cztery"" to odpowiednio ""one, two, three, four"" po angielsku. Czy chcesz kontynuować liczenie, czy może masz inne pytania?",2024-08-03 23:08:10.152046,False
+14,U07EBJYBG4T,Co napisałem w poprzedniej wiadomości?,2024-08-03 23:08:47.066922,True
+15,U07EBJYBG4T,"W swojej poprzedniej wiadomości napisałeś ""jeden, dwa, trzy, cztery"". To po polsku oznacza liczby 1, 2, 3, 4. Jeśli masz inne pytania lub chcesz kontynuować temat, daj znać!",2024-08-03 23:08:47.096535,False
+16,U074K84941G,Co napisałem w poprzedniej wiadomości?,2024-08-03 23:09:53.043530,True
+17,U074K84941G,"Niestety, nie mam dostępu do treści poprzednich wiadomości ani możliwości śledzenia rozmowy. Mogę jednak pomóc w innych pytaniach lub tematach, które Cię interesują! Jak mogę Ci pomóc?",2024-08-03 23:09:53.076032,False
+18,U074K84941G,Co napisałem w poprzedniej wiadomości?,2024-08-03 23:09:59.917942,True
+19,U074K84941G,"Nie mam możliwości przeglądania lub pamiętania poprzednich wiadomości w tej rozmowie. Każda wiadomość, którą mi wysyłasz, jest analizowana bez kontekstu wcześniejszych interakcji. Jak mogę Ci pomóc w tej chwili?",2024-08-03 23:09:59.945951,False
+20,U074K84941G,Ymhy... ile wiadomości już wymieniliśmy?,2024-08-03 23:10:35.077781,True
+21,U074K84941G,"Jak dotąd wymieniliśmy pięć wiadomości, łącznie z tym pytaniem. Jeśli masz inne pytania lub potrzebujesz dalszej pomocy, daj mi znać!",2024-08-03 23:10:35.108205,False
+22,U074K84941G,Jakie np.?,2024-08-03 23:11:02.854023,True
+23,U074K84941G,"Mogę pomóc w wielu różnych tematach, takich jak:
+
+1. **Wiedza ogólna**: Pytania dotyczące historii, nauki, sztuki itp.
+2. **Technologia**: Informacje na temat nowych technologii, programowania czy urządzeń.
+3. **Zdrowie i fitness**: Porady dotyczące zdrowego stylu życia, diety, ćwiczeń.
+4. **Kultura i rozrywka**: Rekomendacje filmów, książek, muzyki.
+5. **Nauka języków**: Pomoc w nauce słówek, gramatyki w różnych językach.
+6. **Podróże**: Porady czy informacje o ciekawych miejscach, kulturach.
+
+Jeśli masz konkretny temat lub pytanie, śmiało pytaj!",2024-08-03 23:11:02.887030,False
+24,U074K84941G,Wybierz jedno z nich i powiedz coś więcej,2024-08-03 23:11:31.020984,True
+25,U074K84941G,"Wybierzmy temat **zdrowie i fitness**. 
+
+Zdrowy styl życia jest kluczowy dla utrzymania dobrego samopoczucia i zapobiegania wielu chorobom. Oto kilka podstawowych zasad, które mogą pomóc w dbaniu o zdrowie:
+
+1. **Zrównoważona dieta**: Staraj się jeść różnorodne produkty, w tym świeże owoce, warzywa, białka (takie jak ryby, mięso, rośliny strączkowe) oraz zdrowe tłuszcze (np. awokado, oliwa z oliwek). Ogranicz spożycie przetworzonej żywności, cukrów i soli.
+
+2. **Regularna aktywność fizyczna**: Zaleca się co najmniej 150 minut umiarkowanej aktywności fizycznej lub 75 minut intensywnej aktywności w tygodniu. Może to być cokolwiek, co podnosi tętno, jak bieganie, pływanie, jazda na rowerze czy taniec.
+
+3. **Nawodnienie**: Picie odpowiedniej ilości wody jest kluczowe dla utrzymania dobrego zdrowia. Zwykle zaleca się picie co najmniej 2 litrów wody dziennie, chociaż potrzeby mogą się różnić w zależności od aktywności i klimatu.
+
+4. **Sen**: Odpowiednia ilość snu (7-9 godzin dla dorosłych) jest niezbędna do regeneracji organizmu i zdrowia psychicznego. Staraj się utrzymywać regularny harmonogram snu.
+
+5. **Zarządzanie stresem**: Techniki relaksacyjne, takie jak medytacja, joga, czy ćwiczenia oddechowe, mogą pomóc w radzeniu sobie ze stresem i poprawie samopoczucia emocjonalnego.
+
+Pamiętaj, że każda osoba jest inna, więc ważne jest, aby dostosować te zasady do swoich indywidualnych potrzeb i konsultować się z lekarzem lub specjalistą w dziedzinie zdrowia przed wprowadzeniem większych zmian w swoim stylu życia. Jeśli chcesz dowiedzieć się więcej na ten temat lub o czymś konkretnym, daj znać!",2024-08-03 23:11:31.054533,False
+26,U074K84941G,Hej,2024-08-03 23:16:41.416261,True
+27,U074K84941G,Hej! Jak mogę Ci pomóc?,2024-08-03 23:16:41.456466,False
+28,U074K84941G,O czym przed chwilą rozmawialiśmy?,2024-08-03 23:17:06.160532,True
+29,U074K84941G,"Rozmawialiśmy o zdrowiu i fitnessie, a także o podstawowych zasadach zdrowego stylu życia, takich jak zrównoważona dieta, regularna aktywność fizyczna, nawodnienie, sen i zarządzanie stresem. Jeśli masz jakieś inne pytania lub chcesz kontynuować ten temat, daj mi znać!",2024-08-03 23:17:06.189124,False
+30,U074K84941G,x = 10,2024-08-04 14:51:44.151824,True
+31,U074K84941G,"Wygląda na to, że podałeś równanie lub wyrażenie. Czy chcesz, żebym pomógł Ci zrozumieć, co można z nim zrobić? Na przykład, możemy rozwiązać jakieś równania, przekształcić wyrażenie lub wyjaśnić coś związanego z tym, co oznacza x = 10. Co dokładnie masz na myśli?",2024-08-04 14:51:44.205525,False
+32,U074K84941G,"Cześć, chcę abyś zapamiętał: ""x=17""",2024-08-04 14:52:26.854594,True
+33,U074K84941G,"Niestety, nie jestem w stanie zapamiętywać informacji między sesjami. Każda rozmowa jest niezależna i nie mam możliwości przechowywania danych. Jeśli potrzebujesz czegoś związanego z ""x=17"", mogę pomóc w analizie lub rozwiązaniu problemu w ramach tej rozmowy. Jak mogę Ci pomóc?",2024-08-04 14:52:26.896671,False
+34,U074K84941G,Ile jest równy 'x'?,2024-08-04 14:52:45.441834,True
+35,U074K84941G,"Na podstawie przekazanej informacji ""x=17"", x jest równy 17. Jeśli masz inne pytania lub potrzebujesz pomocy w dalszych obliczeniach lub analizie, daj znać!",2024-08-04 14:52:45.474893,False
+36,U074K84941G,How much 'x' is equal?,2024-08-04 14:57:00.908175,True
+37,U074K84941G,"Based on the earlier statement ""x = 17,"" x is equal to 17. If you have any further questions or need assistance with anything else, feel free to ask!",2024-08-04 14:57:00.943096,False

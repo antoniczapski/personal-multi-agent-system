@@ -13,6 +13,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the application code into the container
 COPY . .
 
+# Copy the database_mvp directory into the container
+COPY ./database_mvp ./database_mvp
+
 # Set environment variable to prevent Python from buffering stdout and stderr
 ENV PYTHONUNBUFFERED=1
 
