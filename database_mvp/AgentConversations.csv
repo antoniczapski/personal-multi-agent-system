@@ -52,3 +52,987 @@ thread_message_id,message_id,agent_name,message_content,timestamp
 51,36,First responder,test 1,2024-08-04 14:56:59.703924
 52,36,Second responder,test 2,2024-08-04 14:57:00.074348
 53,36,Third responder,test 3,2024-08-04 14:57:00.370107
+54,38,First responder,test 1,2024-08-04 13:27:22.897560
+55,38,Second responder,test 2,2024-08-04 13:27:23.258486
+56,38,Third responder,test 3,2024-08-04 13:27:23.563603
+57,40,First responder,test 1,2024-08-04 14:49:20.658490
+58,40,Second responder,test 2,2024-08-04 14:49:20.948271
+59,40,Third responder,test 3,2024-08-04 14:49:21.280488
+60,42,First responder,test 1,2024-08-04 14:49:28.560475
+61,42,Second responder,test 2,2024-08-04 14:49:28.818024
+62,42,Third responder,test 3,2024-08-04 14:49:29.057948
+63,44,First responder,test 1,2024-08-04 14:53:49.714848
+64,44,Second responder,test 2,2024-08-04 14:53:49.999654
+65,44,Third responder,test 3,2024-08-04 14:53:50.281116
+66,46,First responder,test 1,2024-08-04 15:00:00.023501
+67,46,Second responder,test 2,2024-08-04 15:00:00.350012
+68,46,Third responder,test 3,2024-08-04 15:00:00.759525
+69,48,First responder,test 1,2024-08-04 15:06:11.008070
+70,48,Second responder,test 2,2024-08-04 15:06:11.285937
+71,48,Third responder,test 3,2024-08-04 15:06:11.578540
+72,50,First responder,test 1,2024-08-05 20:23:01.977417
+73,50,Second responder,test 2,2024-08-05 20:23:02.375059
+74,50,Third responder,test 3,2024-08-05 20:23:02.668727
+75,52,First responder,test 1,2024-08-05 20:23:44.221248
+76,52,Second responder,test 2,2024-08-05 20:23:44.502559
+77,52,Third responder,test 3,2024-08-05 20:23:44.800212
+78,54,First responder,test 1,2024-08-05 20:25:03.742881
+79,54,Second responder,test 2,2024-08-05 20:25:03.986614
+80,54,Third responder,test 3,2024-08-05 20:25:04.267187
+81,56,First responder,test 1,2024-08-05 20:26:51.938034
+82,56,Second responder,test 2,2024-08-05 20:26:52.223758
+83,56,Third responder,test 3,2024-08-05 20:26:52.489391
+84,58,First responder,test 1,2024-08-05 20:28:44.548649
+85,58,Second responder,test 2,2024-08-05 20:28:44.797238
+86,58,Third responder,test 3,2024-08-05 20:28:45.063830
+87,60,First responder,test 1,2024-08-05 20:29:09.057316
+88,60,Second responder,test 2,2024-08-05 20:29:09.338314
+89,60,Third responder,test 3,2024-08-05 20:29:09.599353
+90,62,First responder,test 1,2024-08-05 20:30:21.624397
+91,62,Second responder,test 2,2024-08-05 20:30:21.959980
+92,62,Third responder,test 3,2024-08-05 20:30:22.226234
+93,64,First responder,test 1,2024-08-05 20:30:34.663232
+94,64,Second responder,test 2,2024-08-05 20:30:34.943645
+95,64,Third responder,test 3,2024-08-05 20:30:35.233973
+96,66,First responder,test 1,2024-08-05 20:31:16.321574
+97,66,Second responder,test 2,2024-08-05 20:31:16.621271
+98,66,Third responder,test 3,2024-08-05 20:31:16.948957
+99,68,First responder,test 1,2024-08-05 20:32:06.855065
+100,68,Second responder,test 2,2024-08-05 20:32:07.142493
+101,68,Third responder,test 3,2024-08-05 20:32:07.424238
+102,70,First responder,test 1,2024-08-05 20:33:59.131457
+103,70,Second responder,test 2,2024-08-05 20:33:59.402343
+104,70,Third responder,test 3,2024-08-05 20:33:59.687292
+105,72,First responder,test 1,2024-08-05 20:35:26.914932
+106,72,Second responder,test 2,2024-08-05 20:35:27.251147
+107,72,Third responder,test 3,2024-08-05 20:35:27.540922
+108,74,First responder,test 1,2024-08-05 20:37:05.886498
+109,74,Second responder,test 2,2024-08-05 20:37:06.175178
+110,74,Third responder,test 3,2024-08-05 20:37:06.449394
+111,76,First responder,test 1,2024-08-05 20:37:51.570668
+112,76,Second responder,test 2,2024-08-05 20:37:51.844177
+113,76,Third responder,test 3,2024-08-05 20:37:52.121242
+114,78,First responder,test 1,2024-08-05 20:38:25.718763
+115,78,Second responder,test 2,2024-08-05 20:38:25.996575
+116,78,Third responder,test 3,2024-08-05 20:38:26.248536
+117,80,First responder,test 1,2024-08-05 20:39:10.894666
+118,80,Second responder,test 2,2024-08-05 20:39:11.188431
+119,80,Third responder,test 3,2024-08-05 20:39:11.442454
+120,82,First responder,test 1,2024-08-05 20:40:10.740182
+121,82,Second responder,test 2,2024-08-05 20:40:10.978451
+122,82,Third responder,test 3,2024-08-05 20:40:11.242311
+123,84,First responder,test 1,2024-08-05 20:41:19.299662
+124,84,Second responder,test 2,2024-08-05 20:41:19.575110
+125,84,Third responder,test 3,2024-08-05 20:41:19.895400
+126,86,First responder,test 1,2024-08-05 20:42:05.648949
+127,86,Second responder,test 2,2024-08-05 20:42:05.902844
+128,86,Third responder,test 3,2024-08-05 20:42:06.154154
+129,88,First responder,test 1,2024-08-05 20:42:48.287098
+130,88,Second responder,test 2,2024-08-05 20:42:48.619940
+131,88,Third responder,test 3,2024-08-05 20:42:48.869513
+132,90,First responder,test 1,2024-08-05 20:44:09.666043
+133,90,Second responder,test 2,2024-08-05 20:44:10.002910
+134,90,Third responder,test 3,2024-08-05 20:44:10.331426
+135,92,First responder,test 1,2024-08-05 20:45:21.065945
+136,92,Second responder,test 2,2024-08-05 20:45:21.328891
+137,92,Third responder,test 3,2024-08-05 20:45:21.617832
+138,94,First responder,test 1,2024-08-05 20:46:06.444442
+139,94,Second responder,test 2,2024-08-05 20:46:06.702547
+140,94,Third responder,test 3,2024-08-05 20:46:06.945362
+141,96,First responder,test 1,2024-08-05 20:46:35.537843
+142,96,Second responder,test 2,2024-08-05 20:46:35.829104
+143,96,Third responder,test 3,2024-08-05 20:46:36.116790
+144,98,First responder,test 1,2024-08-05 20:47:13.370913
+145,98,Second responder,test 2,2024-08-05 20:47:13.642731
+146,98,Third responder,test 3,2024-08-05 20:47:13.894070
+147,100,First responder,test 1,2024-08-05 20:47:38.975437
+148,100,Second responder,test 2,2024-08-05 20:47:39.245407
+149,100,Third responder,test 3,2024-08-05 20:47:39.505418
+150,102,First responder,test 1,2024-08-05 20:48:08.216237
+151,102,Second responder,test 2,2024-08-05 20:48:08.518426
+152,102,Third responder,test 3,2024-08-05 20:48:08.773313
+153,104,First responder,test 1,2024-08-05 20:48:35.336659
+154,104,Second responder,test 2,2024-08-05 20:48:35.588482
+155,104,Third responder,test 3,2024-08-05 20:48:35.841381
+156,106,First responder,test 1,2024-08-05 20:48:53.677286
+157,106,Second responder,test 2,2024-08-05 20:48:53.981881
+158,106,Third responder,test 3,2024-08-05 20:48:54.253575
+159,108,First responder,test 1,2024-08-05 20:51:40.566950
+160,108,Second responder,test 2,2024-08-05 20:51:40.826194
+161,108,Third responder,test 3,2024-08-05 20:51:41.117321
+162,110,First responder,test 1,2024-08-05 20:52:19.286510
+163,110,Second responder,test 2,2024-08-05 20:52:19.608722
+164,110,Third responder,test 3,2024-08-05 20:52:19.880512
+165,112,First responder,test 1,2024-08-05 20:53:51.778076
+166,112,Second responder,test 2,2024-08-05 20:53:52.065693
+167,112,Third responder,test 3,2024-08-05 20:53:52.327465
+168,114,First responder,test 1,2024-08-05 20:54:34.478890
+169,114,Second responder,test 2,2024-08-05 20:54:34.728355
+170,114,Third responder,test 3,2024-08-05 20:54:34.969781
+171,116,First responder,test 1,2024-08-05 20:57:05.810593
+172,116,Second responder,test 2,2024-08-05 20:57:06.114167
+173,116,Third responder,test 3,2024-08-05 20:57:06.396833
+174,118,First responder,test 1,2024-08-05 20:59:42.328665
+175,118,Second responder,test 2,2024-08-05 20:59:42.583119
+176,118,Third responder,test 3,2024-08-05 20:59:42.842554
+177,120,First responder,test 1,2024-08-05 21:00:59.702030
+178,120,Second responder,test 2,2024-08-05 21:00:59.974155
+179,120,Third responder,test 3,2024-08-05 21:01:00.255504
+180,122,First responder,test 1,2024-08-05 21:02:58.389953
+181,122,Second responder,test 2,2024-08-05 21:02:58.667552
+182,122,Third responder,test 3,2024-08-05 21:02:59.071773
+183,124,First responder,test 1,2024-08-05 21:03:24.750825
+184,124,Second responder,test 2,2024-08-05 21:03:25.045576
+185,124,Third responder,test 3,2024-08-05 21:03:25.321962
+186,126,First responder,test 1,2024-08-05 21:03:43.770403
+187,126,Second responder,test 2,2024-08-05 21:03:44.142680
+188,126,Third responder,test 3,2024-08-05 21:03:44.394459
+189,128,First responder,test 1,2024-08-05 21:04:53.373297
+190,128,Second responder,test 2,2024-08-05 21:04:53.627353
+191,128,Third responder,test 3,2024-08-05 21:04:53.921957
+192,130,First responder,test 1,2024-08-05 21:06:03.265902
+193,130,Second responder,test 2,2024-08-05 21:06:03.548490
+194,130,Third responder,test 3,2024-08-05 21:06:03.877612
+195,132,First responder,test 1,2024-08-05 21:06:47.258294
+196,132,Second responder,test 2,2024-08-05 21:06:47.537073
+197,132,Third responder,test 3,2024-08-05 21:06:47.808328
+198,134,First responder,test 1,2024-08-05 21:08:01.275032
+199,134,Second responder,test 2,2024-08-05 21:08:01.616170
+200,134,Third responder,test 3,2024-08-05 21:08:01.971875
+201,136,First responder,test 1,2024-08-05 21:08:58.088679
+202,136,Second responder,test 2,2024-08-05 21:08:58.372730
+203,136,Third responder,test 3,2024-08-05 21:08:58.631757
+204,138,First responder,test 1,2024-08-05 21:09:51.790140
+205,138,Second responder,test 2,2024-08-05 21:09:52.045338
+206,138,Third responder,test 3,2024-08-05 21:09:52.290274
+207,140,First responder,test 1,2024-08-05 21:10:50.985449
+208,140,Second responder,test 2,2024-08-05 21:10:51.246163
+209,140,Third responder,test 3,2024-08-05 21:10:51.504959
+210,142,First responder,test 1,2024-08-05 21:11:09.540778
+211,142,Second responder,test 2,2024-08-05 21:11:09.804115
+212,142,Third responder,test 3,2024-08-05 21:11:10.091496
+213,144,First responder,test 1,2024-08-05 21:11:34.532391
+214,144,Second responder,test 2,2024-08-05 21:11:34.821732
+215,144,Third responder,test 3,2024-08-05 21:11:35.070947
+216,146,First responder,test 1,2024-08-05 21:11:53.099347
+217,146,Second responder,test 2,2024-08-05 21:11:53.435290
+218,146,Third responder,test 3,2024-08-05 21:11:53.687082
+219,148,First responder,test 1,2024-08-05 21:12:13.941190
+220,148,Second responder,test 2,2024-08-05 21:12:14.231247
+221,148,Third responder,test 3,2024-08-05 21:12:14.502552
+222,150,First responder,test 1,2024-08-05 21:12:56.225172
+223,150,Second responder,test 2,2024-08-05 21:12:56.501688
+224,150,Third responder,test 3,2024-08-05 21:12:56.777605
+225,152,First responder,test 1,2024-08-05 21:13:06.319558
+226,152,Second responder,test 2,2024-08-05 21:13:06.627264
+227,152,Third responder,test 3,2024-08-05 21:13:06.876067
+228,154,First responder,test 1,2024-08-05 21:13:25.240507
+229,154,Second responder,test 2,2024-08-05 21:13:25.522929
+230,154,Third responder,test 3,2024-08-05 21:13:25.796760
+231,156,First responder,test 1,2024-08-05 21:13:39.072253
+232,156,Second responder,test 2,2024-08-05 21:13:39.333736
+233,156,Third responder,test 3,2024-08-05 21:13:39.616306
+234,158,First responder,test 1,2024-08-05 21:14:11.722321
+235,158,Second responder,test 2,2024-08-05 21:14:12.005509
+236,158,Third responder,test 3,2024-08-05 21:14:12.305933
+237,160,First responder,test 1,2024-08-05 21:14:25.016788
+238,160,Second responder,test 2,2024-08-05 21:14:25.263001
+239,160,Third responder,test 3,2024-08-05 21:14:25.527492
+240,162,First responder,test 1,2024-08-05 21:16:05.502714
+241,162,Second responder,test 2,2024-08-05 21:16:05.756445
+242,162,Third responder,test 3,2024-08-05 21:16:06.026218
+243,164,First responder,test 1,2024-08-05 21:20:03.305424
+244,164,Second responder,test 2,2024-08-05 21:20:03.675123
+245,164,Third responder,test 3,2024-08-05 21:20:03.926066
+246,166,First responder,test 1,2024-08-05 21:22:06.286577
+247,166,Second responder,test 2,2024-08-05 21:22:06.573992
+248,166,Third responder,test 3,2024-08-05 21:22:06.827741
+249,168,First responder,test 1,2024-08-05 21:23:12.724584
+250,168,Second responder,test 2,2024-08-05 21:23:12.996028
+251,168,Third responder,test 3,2024-08-05 21:23:13.269047
+252,170,First responder,test 1,2024-08-05 21:25:04.944989
+253,170,Second responder,test 2,2024-08-05 21:25:05.221272
+254,170,Third responder,test 3,2024-08-05 21:25:05.469154
+255,172,First responder,test 1,2024-08-05 21:27:08.046279
+256,172,Second responder,test 2,2024-08-05 21:27:08.380568
+257,172,Third responder,test 3,2024-08-05 21:27:08.668179
+258,174,First responder,test 1,2024-08-05 21:27:44.852022
+259,174,Second responder,test 2,2024-08-05 21:27:45.124116
+260,174,Third responder,test 3,2024-08-05 21:27:45.378347
+261,176,First responder,test 1,2024-08-05 21:28:09.888486
+262,176,Second responder,test 2,2024-08-05 21:28:10.222387
+263,176,Third responder,test 3,2024-08-05 21:28:10.471765
+264,178,First responder,test 1,2024-08-05 21:28:54.124250
+265,178,Second responder,test 2,2024-08-05 21:28:54.378053
+266,178,Third responder,test 3,2024-08-05 21:28:54.637265
+267,180,First responder,test 1,2024-08-05 21:29:33.708806
+268,180,Second responder,test 2,2024-08-05 21:29:33.990855
+269,180,Third responder,test 3,2024-08-05 21:29:34.260453
+270,182,First responder,test 1,2024-08-05 21:29:52.325935
+271,182,Second responder,test 2,2024-08-05 21:29:52.615347
+272,182,Third responder,test 3,2024-08-05 21:29:52.859679
+273,184,First responder,test 1,2024-08-05 21:30:25.152468
+274,184,Second responder,test 2,2024-08-05 21:30:25.457820
+275,184,Third responder,test 3,2024-08-05 21:30:25.705793
+276,186,First responder,test 1,2024-08-05 21:30:49.862565
+277,186,Second responder,test 2,2024-08-05 21:30:50.188149
+278,186,Third responder,test 3,2024-08-05 21:30:50.469955
+279,188,First responder,test 1,2024-08-05 21:32:35.160472
+280,188,Second responder,test 2,2024-08-05 21:32:35.410633
+281,188,Third responder,test 3,2024-08-05 21:32:35.685529
+282,190,First responder,test 1,2024-08-05 21:34:56.252899
+283,190,Second responder,test 2,2024-08-05 21:34:56.511258
+284,190,Third responder,test 3,2024-08-05 21:34:56.806398
+285,192,First responder,test 1,2024-08-05 21:35:40.274109
+286,192,Second responder,test 2,2024-08-05 21:35:40.588851
+287,192,Third responder,test 3,2024-08-05 21:35:40.852700
+288,194,First responder,test 1,2024-08-05 21:36:44.456675
+289,194,Second responder,test 2,2024-08-05 21:36:44.712384
+290,194,Third responder,test 3,2024-08-05 21:36:44.963667
+291,196,First responder,test 1,2024-08-05 21:38:32.565801
+292,196,Second responder,test 2,2024-08-05 21:38:32.817873
+293,196,Third responder,test 3,2024-08-05 21:38:33.110238
+294,198,First responder,test 1,2024-08-05 21:39:44.415058
+295,198,Second responder,test 2,2024-08-05 21:39:44.690928
+296,198,Third responder,test 3,2024-08-05 21:39:44.984835
+297,200,First responder,test 1,2024-08-05 21:44:30.989028
+298,200,Second responder,test 2,2024-08-05 21:44:31.289689
+299,200,Third responder,test 3,2024-08-05 21:44:31.572575
+300,202,First responder,test 1,2024-08-05 21:44:53.261993
+301,202,Second responder,test 2,2024-08-05 21:44:53.517091
+302,202,Third responder,test 3,2024-08-05 21:44:53.876091
+303,204,First responder,test 1,2024-08-05 21:45:58.034388
+304,204,Second responder,test 2,2024-08-05 21:45:58.377154
+305,204,Third responder,test 3,2024-08-05 21:45:58.660085
+306,206,First responder,test 1,2024-08-05 21:46:14.585289
+307,206,Second responder,test 2,2024-08-05 21:46:14.856065
+308,206,Third responder,test 3,2024-08-05 21:46:15.115421
+309,208,First responder,test 1,2024-08-05 21:47:36.777411
+310,208,Second responder,test 2,2024-08-05 21:47:37.120319
+311,208,Third responder,test 3,2024-08-05 21:47:37.400195
+312,210,First responder,test 1,2024-08-05 21:48:03.692823
+313,210,Second responder,test 2,2024-08-05 21:48:03.973809
+314,210,Third responder,test 3,2024-08-05 21:48:04.241023
+315,212,First responder,test 1,2024-08-05 21:49:05.026168
+316,212,Second responder,test 2,2024-08-05 21:49:05.293966
+317,212,Third responder,test 3,2024-08-05 21:49:05.563964
+318,214,First responder,test 1,2024-08-05 21:57:44.371556
+319,214,Second responder,test 2,2024-08-05 21:57:44.658595
+320,214,Third responder,test 3,2024-08-05 21:57:44.906558
+321,216,First responder,test 1,2024-08-05 21:58:11.301190
+322,216,Second responder,test 2,2024-08-05 21:58:11.581481
+323,216,Third responder,test 3,2024-08-05 21:58:11.869766
+324,218,First responder,test 1,2024-08-05 21:58:35.738258
+325,218,Second responder,test 2,2024-08-05 21:58:36.022783
+326,218,Third responder,test 3,2024-08-05 21:58:36.279677
+327,220,First responder,test 1,2024-08-05 21:58:57.306066
+328,220,Second responder,test 2,2024-08-05 21:58:57.582357
+329,220,Third responder,test 3,2024-08-05 21:58:57.824474
+330,222,First responder,test 1,2024-08-05 21:59:37.827557
+331,222,Second responder,test 2,2024-08-05 21:59:38.147065
+332,222,Third responder,test 3,2024-08-05 21:59:38.415914
+333,224,First responder,test 1,2024-08-05 22:00:10.149574
+334,224,Second responder,test 2,2024-08-05 22:00:10.436688
+335,224,Third responder,test 3,2024-08-05 22:00:10.771268
+336,226,First responder,test 1,2024-08-06 17:15:53.458608
+337,226,Second responder,test 2,2024-08-06 17:15:53.806280
+338,226,Third responder,test 3,2024-08-06 17:15:54.071122
+339,228,First responder,test 1,2024-08-06 17:17:36.868839
+340,228,Second responder,test 2,2024-08-06 17:17:37.169689
+341,228,Third responder,test 3,2024-08-06 17:17:37.419124
+342,230,First responder,test 1,2024-08-06 17:19:48.724126
+343,230,Second responder,test 2,2024-08-06 17:19:49.023851
+344,230,Third responder,test 3,2024-08-06 17:19:49.292188
+345,232,First responder,test 1,2024-08-11 09:15:28.392051
+346,232,Second responder,test 2,2024-08-11 09:15:28.744829
+347,232,Third responder,test 3,2024-08-11 09:15:29.033686
+348,234,First responder,test 1,2024-08-11 09:16:02.806814
+349,234,Second responder,test 2,2024-08-11 09:16:03.096881
+350,234,Third responder,test 3,2024-08-11 09:16:03.388096
+351,236,First responder,test 1,2024-08-11 12:26:06.308582
+352,236,Second responder,test 2,2024-08-11 12:26:06.614335
+353,236,Third responder,test 3,2024-08-11 12:26:06.887304
+354,238,First responder,test 1,2024-08-11 12:27:23.967960
+355,238,Second responder,test 2,2024-08-11 12:27:24.254162
+356,238,Third responder,test 3,2024-08-11 12:27:24.524050
+357,240,First responder,test 1,2024-08-11 12:27:46.169610
+358,240,Second responder,test 2,2024-08-11 12:27:46.434845
+359,240,Third responder,test 3,2024-08-11 12:27:46.745713
+360,242,First responder,test 1,2024-08-11 12:28:21.575833
+361,242,Second responder,test 2,2024-08-11 12:28:21.853886
+362,242,Third responder,test 3,2024-08-11 12:28:22.130610
+363,244,First responder,test 1,2024-08-11 12:28:38.915755
+364,244,Second responder,test 2,2024-08-11 12:28:39.199480
+365,244,Third responder,test 3,2024-08-11 12:28:39.446605
+366,246,First responder,test 1,2024-08-11 12:28:58.676441
+367,246,Second responder,test 2,2024-08-11 12:28:58.968287
+368,246,Third responder,test 3,2024-08-11 12:28:59.243262
+369,248,First responder,test 1,2024-08-11 12:31:37.735315
+370,248,Second responder,test 2,2024-08-11 12:31:38.008700
+371,248,Third responder,test 3,2024-08-11 12:31:38.288450
+372,250,First responder,test 1,2024-08-11 12:32:34.089642
+373,250,Second responder,test 2,2024-08-11 12:32:34.363763
+374,250,Third responder,test 3,2024-08-11 12:32:34.636611
+375,252,First responder,test 1,2024-08-11 12:33:03.917608
+376,252,Second responder,test 2,2024-08-11 12:33:04.185622
+377,252,Third responder,test 3,2024-08-11 12:33:04.433153
+378,254,First responder,test 1,2024-08-11 12:35:04.789310
+379,254,Second responder,test 2,2024-08-11 12:35:05.077865
+380,254,Third responder,test 3,2024-08-11 12:35:05.341637
+381,256,First responder,test 1,2024-08-11 12:36:40.301955
+382,256,Second responder,test 2,2024-08-11 12:36:40.570497
+383,256,Third responder,test 3,2024-08-11 12:36:40.820064
+384,258,First responder,test 1,2024-08-11 12:42:31.786048
+385,258,Second responder,test 2,2024-08-11 12:42:32.055875
+386,258,Third responder,test 3,2024-08-11 12:42:32.356095
+387,260,First responder,test 1,2024-08-11 12:43:11.166174
+388,260,Second responder,test 2,2024-08-11 12:43:11.710792
+389,260,Third responder,test 3,2024-08-11 12:43:11.997687
+390,262,First responder,test 1,2024-08-11 12:45:19.154842
+391,262,Second responder,test 2,2024-08-11 12:45:19.434075
+392,262,Third responder,test 3,2024-08-11 12:45:19.699357
+393,264,First responder,test 1,2024-08-11 12:45:54.325753
+394,264,Second responder,test 2,2024-08-11 12:45:54.572960
+395,264,Third responder,test 3,2024-08-11 12:45:54.832007
+396,266,First responder,test 1,2024-08-11 12:48:31.058912
+397,266,Second responder,test 2,2024-08-11 12:48:31.304427
+398,266,Third responder,test 3,2024-08-11 12:48:31.569530
+399,268,First responder,test 1,2024-08-11 12:49:33.914656
+400,268,Second responder,test 2,2024-08-11 12:49:34.228111
+401,268,Third responder,test 3,2024-08-11 12:49:34.495637
+402,270,First responder,test 1,2024-08-11 12:50:08.894972
+403,270,Second responder,test 2,2024-08-11 12:50:09.201486
+404,270,Third responder,test 3,2024-08-11 12:50:09.472205
+405,272,First responder,test 1,2024-08-11 12:50:29.980195
+406,272,Second responder,test 2,2024-08-11 12:50:30.251927
+407,272,Third responder,test 3,2024-08-11 12:50:30.719498
+408,274,First responder,test 1,2024-08-11 12:51:45.192170
+409,274,Second responder,test 2,2024-08-11 12:51:45.467916
+410,274,Third responder,test 3,2024-08-11 12:51:45.727516
+411,276,First responder,test 1,2024-08-11 12:52:03.656992
+412,276,Second responder,test 2,2024-08-11 12:52:03.908769
+413,276,Third responder,test 3,2024-08-11 12:52:04.209336
+414,278,First responder,test 1,2024-08-11 12:52:32.659871
+415,278,Second responder,test 2,2024-08-11 12:52:32.926835
+416,278,Third responder,test 3,2024-08-11 12:52:33.168820
+417,280,First responder,test 1,2024-08-11 12:53:10.018375
+418,280,Second responder,test 2,2024-08-11 12:53:10.304888
+419,280,Third responder,test 3,2024-08-11 12:53:10.580425
+420,282,First responder,test 1,2024-08-11 12:54:41.710754
+421,282,Second responder,test 2,2024-08-11 12:54:41.980216
+422,282,Third responder,test 3,2024-08-11 12:54:42.268427
+423,284,First responder,test 1,2024-08-11 12:56:45.284600
+424,284,Second responder,test 2,2024-08-11 12:56:45.531684
+425,284,Third responder,test 3,2024-08-11 12:56:45.857508
+426,286,First responder,test 1,2024-08-11 15:01:41.067283
+427,286,Second responder,test 2,2024-08-11 15:01:41.377303
+428,286,Third responder,test 3,2024-08-11 15:01:41.621460
+429,288,First responder,test 1,2024-08-11 21:53:49.876792
+430,288,Second responder,test 2,2024-08-11 21:53:50.222379
+431,288,Third responder,test 3,2024-08-11 21:53:50.534801
+432,290,First responder,test 1,2024-08-11 21:54:36.502203
+433,290,Second responder,test 2,2024-08-11 21:54:36.760478
+434,290,Third responder,test 3,2024-08-11 21:54:37.009967
+435,292,First responder,test 1,2024-08-12 09:02:28.588726
+436,292,Second responder,test 2,2024-08-12 09:02:28.931390
+437,292,Third responder,test 3,2024-08-12 09:02:29.195184
+438,294,First responder,test 1,2024-08-12 09:04:46.749096
+439,294,Second responder,test 2,2024-08-12 09:04:47.002663
+440,294,Third responder,test 3,2024-08-12 09:04:47.284564
+441,296,First responder,test 1,2024-08-12 09:06:08.605377
+442,296,Second responder,test 2,2024-08-12 09:06:08.871571
+443,296,Third responder,test 3,2024-08-12 09:06:09.146064
+444,298,First responder,test 1,2024-08-12 09:07:04.266669
+445,298,Second responder,test 2,2024-08-12 09:07:04.528380
+446,298,Third responder,test 3,2024-08-12 09:07:04.828703
+447,300,First responder,test 1,2024-08-12 09:11:15.367141
+448,300,Second responder,test 2,2024-08-12 09:11:15.658678
+449,300,Third responder,test 3,2024-08-12 09:11:15.941778
+450,302,First responder,test 1,2024-08-12 09:12:07.331906
+451,302,Second responder,test 2,2024-08-12 09:12:07.649874
+452,302,Third responder,test 3,2024-08-12 09:12:07.928818
+453,304,First responder,test 1,2024-08-12 09:13:47.927945
+454,304,Second responder,test 2,2024-08-12 09:13:48.228624
+455,304,Third responder,test 3,2024-08-12 09:13:48.517931
+456,306,First responder,test 1,2024-08-12 09:18:46.104343
+457,306,Second responder,test 2,2024-08-12 09:18:46.376571
+458,306,Third responder,test 3,2024-08-12 09:18:46.671563
+459,308,First responder,test 1,2024-08-12 09:21:11.796484
+460,308,Second responder,test 2,2024-08-12 09:21:12.085549
+461,308,Third responder,test 3,2024-08-12 09:21:12.372938
+462,310,First responder,test 1,2024-08-12 09:27:44.431783
+463,310,Second responder,test 2,2024-08-12 09:27:44.717969
+464,310,Third responder,test 3,2024-08-12 09:27:44.988060
+465,312,First responder,test 1,2024-08-12 09:38:44.392345
+466,312,Second responder,test 2,2024-08-12 09:38:44.685662
+467,312,Third responder,test 3,2024-08-12 09:38:44.984150
+468,314,First responder,test 1,2024-08-13 19:42:14.812016
+469,314,Second responder,test 2,2024-08-13 19:42:15.159994
+470,314,Third responder,test 3,2024-08-13 19:42:15.481820
+471,316,First responder,test 1,2024-08-13 19:42:28.789720
+472,316,Second responder,test 2,2024-08-13 19:42:29.080556
+473,316,Third responder,test 3,2024-08-13 19:42:29.416780
+474,318,First responder,test 1,2024-08-13 19:47:01.715160
+475,318,Second responder,test 2,2024-08-13 19:47:02.152468
+476,318,Third responder,test 3,2024-08-13 19:47:02.458384
+477,320,Judge,"{""argumentation"": ""Użytkownik przywitał się, co wskazuje na prostą interakcję. Nie wymaga to szczególnej uwagi ani obszernej odpowiedzi, można to uznać za prostą wymianę zwrotów."", ""is_simple"": true}",2024-08-13 22:03:18.109657
+478,322,Judge,"{""argumentation"": ""Użytkownik prosi o przypomnienie wcześniejszej rozmowy, co sugeruje, że chce uzyskać pełniejszą odpowiedź na temat omawianych tematów. Odpowiedź wymaga analizy i przywołania wcześniejszych punktów dyskusji, co wskazuje na bardziej złożoną interakcję."", ""is_simple"": false}",2024-08-13 22:04:05.552041
+479,322,Research Scientist,"Oczywiście! Oto szczegółowa analiza naszej wcześniejszej rozmowy:
+
+1. **Plan na Tydzień w Krakowie i Wrocławiu**:
+   - Rozmawialiśmy o Twoim planie na nadchodzący tydzień, z uwzględnieniem zajęć i aktywności w dwóch miastach.
+   - Podkreśliłem znaczenie równowagi między pracą a relaksem, sugerując różnorodne aktywności, które mogłyby być interesujące oraz przyjemne. 
+
+2. **Niedziela Rano w Wrocławiu**:
+   - Proponowałem aktywności na niedzielny poranek, z myślą o stworzeniu relaksującego i przyjemnego rozpoczęcia dnia.
+   - Sugerowane zajęcia obejmowały zdrowe śniadanie, spacer po Wrocławiu, wizytę w kawiarni oraz czas spędzony w Ogrodzie Botanicznym.
+
+3. **Pomysły na Niedzielny Wieczór**:
+   - Omówiliśmy różne opcje spędzenia niedzielnego wieczoru, które miały na celu zapewnienie miłego zakończenia weekendu. 
+   - Sugerowane aktywności obejmowały:
+     - Kolację w lokalnej restauracji w celu spróbowania regionalnej kuchni.
+     - Spacer po rynku, aby podziwiać nocną atmosferę Wrocławia.
+     - Wieczór filmowy, który pozwoliłby na relaks w komfortowym otoczeniu.
+     - Wizyta w teatrze lub kinie, aby cieszyć się sztuką na żywo lub nowymi filmami.
+     - Wyjście do pubu lub winiarni, aby spróbować lokalnych piw rzemieślniczych lub win.
+     - Gry planszowe z rodziną lub przyjaciółmi jako sposób na wspólne spędzanie czasu.
+     - Wizyta w spa, umożliwiająca pełen relaks.
+     - Muzykę na żywo w jednym z lokalnych lokali.
+
+4. **Zainteresowania i Preferencje**:
+   - Twoje zainteresowania i preferencje dotyczące spędzania czasu również były ważnym elementem rozmowy. Skupiliśmy się na aktywnościach, które mogłyby przynieść radość oraz relaks.
+
+Jeśli potrzebujesz bardziej szczegółowych informacji na którykolwiek z poruszonych tematów lub chciałbyś dodać coś nowego, daj mi znać!",2024-08-13 22:04:11.970298
+480,322,Psychologist,"Chociaż nie mam dostępu do wcześniejszych konwersacji, mogę przypomnieć, że rozmawialiśmy na temat Twojego planu na tydzień oraz pomysłów na spędzenie czasu w Krakowie i Wrocławiu. Oto bardziej szczegółowe podsumowanie:
+
+### 1. **Plan Na Tydzień:**
+   - **Zajęcia Od Poniedziałku do Piątku**: Rozmawialiśmy o możliwych aktywnościach na każdy dzień, takich jak siłownia, spacery po Starym Mieście, spotkania z przyjaciółmi lub zwiedzanie.
+   - **Czas W Krakowie**: Sugerowałem różnorodne sposoby na relaks i korzystanie z lokalnych atrakcji.
+
+### 2. **Niedziela Rano w Wrocławiu:**
+   - **Pomysły na poranek**: Zasugerowałem zdrowe śniadanie, spacer po Wrocławiu, wizytę w kawiarni oraz zwiedzanie Ogrodu Botanicznego. Wspomniałem o możliwości skorzystania z lokalnych atrakcji i odpoczynku przed dalszymi planami na dzień.
+
+### 3. **Niedzielny Wieczór:**
+   - **Wybory na wieczór**: Zaoferowałem kilka opcji, takich jak:
+     - Kolacja w lokalnej restauracji, aby spróbować regionalnej kuchni.
+     - Spacer po rynku, który jest pięknie oświetlony w nocy.
+     - Wieczór filmowy w domu z bliskimi lub przyjaciółmi.
+     - Wizyta w teatrze lub kinie na ciekawy spektakl lub film.
+     - Wspólna gra w planszówki z rodziną lub przyjaciółmi.
+     - Relaks w spa lub dzień samopielęgnacji.
+     - Muzyka na żywo w lokalnym pubie, aby doświadczyć lokalnej kultury.
+
+Mam nadzieję, że to pełniejsze podsumowanie pomoże Ci lepiej zrozumieć, o czym rozmawialiśmy. Jeśli masz jeszcze jakieś pytania lub potrzebujesz dalszej pomocy, daj mi znać!",2024-08-13 22:04:18.912569
+481,322,Career Advisor,"Jasne! Oto bardziej szczegółowe podsumowanie naszej wcześniejszej rozmowy:
+
+1. **Plan Tygodnia**:
+   - Mówiliśmy o Twoim planie zajęć w Krakowie, które obejmowały aktywności takie jak treningi na siłowni, spacery po Starym Mieście oraz spotkania z przyjaciółmi.
+   - Wskazaliśmy na planowanie weekendu we Wrocławiu, z różnymi atrakcjami zaplanowanymi na sobotę i niedzielę.
+
+2. **Niedziela Rano**:
+   - Zaproponowałem różnorodne opcje na spędzenie poranka w Wrocławiu, które mogą obejmować:
+     - Śniadanie w jednej z lokalnych kawiarni.
+     - Spacer po Ostrowie Tumskim, aby cieszyć się pięknem architektury i natury, oraz ewentualnie wizytę w Ogrodzie Botanicznym.
+     - Możliwość zwiedzania okolicznych atrakcji turystycznych, aby w pełni wykorzystać czas przed popołudniowym zajęciem.
+
+3. **Niedzielny Wieczór**:
+   - Oferowałem różne pomysły na spędzenie wieczoru, które obejmowały:
+     - Kolację w lokalnej restauracji, oferując sugestie dotyczące miejsc, które warto odwiedzić.
+     - Spacer po rynku, który jest szczególnie urokliwy po zmroku.
+     - Wieczór filmowy w domu, z propozycjami tematycznymi.
+     - Wizyta w teatrze lub kinie, aby zobaczyć lokalne przedstawienia lub filmy.
+     - Możliwość odwiedzenia pubu lub winiarni, gdzie można spróbować lokalnych napojów.
+     - Gry planszowe, jeśli planujesz spędzić czas z przyjaciółmi lub rodziną.
+
+Mam nadzieję, że to podsumowanie jest bardziej wyczerpujące! Jeśli potrzebujesz dalszej pomocy lub chcesz omówić konkretny aspekt, daj mi znać!",2024-08-13 22:04:25.298547
+482,322,Friend,"Jasne, mogę to podsumować dokładniej! 
+
+1. **Plan na Tydzień**:
+   - Dyskutowaliśmy o planie na cały tydzień, który miał obejmować różnorodne aktywności, takie jak siłownia, spacery po Starym Mieście w Krakowie oraz spotkania towarzyskie w różnych lokalizacjach.
+
+2. **Weekend we Wrocławiu**:
+   - Rozmawialiśmy o weekendowych planach w Wrocławiu, w tym o tym, co można robić w sobotę i niedzielę. Sugestie obejmowały m.in. odkrywanie uroków Wrocławia, takie jak spacer po Ostrowie Tumskim oraz wizyta w Ogrodzie Botanicznym.
+
+3. **Niedziela Rano**:
+   - Podsunąłem różne pomysły na spędzenie niedzielnego poranka, z opcjami takimi jak zdrowe śniadanie, wyjście na spacer po Wrocławiu, kawę w ulubionej kawiarni, a także chwila relaksu w Ogrodzie Botanicznym.
+
+4. **Niedzielny Wieczór**:
+   - Następnie skupiłem się na możliwych pomysłach na niedzielny wieczór w Wrocławiu. Zaproponowałem m.in. kolację w lokalnej restauracji, relaksujący spacer po rynku, wieczór filmowy w domu, czy też wizytę w teatrze lub na koncercie. Zasugerowałem również spędzenie czasu w pubie lub winiarni.
+
+5. **Gry Planszowe i Relaks**:
+   - Oprócz tego, mówiłem o możliwości zorganizowania wieczoru gier planszowych z przyjaciółmi lub pomyślenia o relaksującym wypadzie do spa. 
+
+Mam nadzieję, że to podsumowanie lepiej oddaje to, co omawialiśmy. Jeżeli masz jakieś inne pytania lub chcesz zgłębić któryś z tych tematów, śmiało pytaj!",2024-08-13 22:04:31.571470
+483,322,Information Retriever,"Oczywiście! Oto pełniejsze podsumowanie naszej dotychczasowej rozmowy:
+
+### Tematy Rozmowy
+
+1. **Plan na Tydzień**:
+   - Rozmawialiśmy o Twoim planie zajęć w Krakowie i Wrocławiu na nadchodzący tydzień.
+   - Wskazałem na możliwość zaplanowania różnych aktywności, w tym treningów na siłowni, spacerów po Starym Mieście w Krakowie oraz spotkań z przyjaciółmi.
+
+2. **Pomysły na Niedzielę w Wrocławiu**:
+   - **Niedzielny Poranek**: Zasugerowałem, aby zacząć dzień od zdrowego śniadania, a następnie udać się na spacer w pobliskich okolicach, co może obejmować:
+     - Ostrow Tumskich
+     - Ogród Botaniczny
+     - Wrocławski Rynek
+   - Możliwość wizyty w kawiarni lub restauracji jako opcja na relaks.
+
+3. **Pomysły na Niedzielny Wieczór**:
+   - Oferowałem różne propozycje spędzenia wieczoru, w tym:
+     - Kolację w lokalnej restauracji, gdzie można spróbować regionalnych specjałów (np. Restauracja Konspiracja lub Kuchnia Marche).
+     - Spacer po rynku, który jest szczególnie piękny wieczorem.
+     - Wieczór filmowy w domu lub w kinie, z wybraniem interesujących filmów.
+     - Udział w wydarzeniach kulturalnych, takich jak teatr lub film.
+     - Wyjście do pubu lub winiarni na lokalne piwa i wina.
+     - Wspólne gra planszowe z przyjaciółmi lub rodziną.
+     - Relaks w spa, jeśli masz ochotę na odprężenie.
+     - Słuchanie muzyki na żywo w jednym z wrocławskich lokali.
+
+### Podsumowanie
+Nasza rozmowa dotyczyła głównie organizacji wolnego czasu w Wrocławiu, ze szczególnym uwzględnieniem planu na niedzielę, zarówno w ciągu dnia, jak i wieczorem. Sugerowałem różnorodne sposoby na spędzenie czasu, abyś mógł cieszyć się relaksującym i satysfakcjonującym weekendem.
+
+Jeśli masz dodatkowe pytania lub potrzebujesz dalszych informacji na którykolwiek z poruszonych tematów, śmiało pytaj!",2024-08-13 22:04:38.273423
+484,324,Judge,"{""argumentation"": ""User greeting again, does not require a complex analysis or extensive discussion."", ""is_simple"": true}",2024-08-13 22:08:00.417611
+485,326,Judge,"{
+  ""argumentation"": ""User's question about Austria comprises several aspects such as tourist attractions, shopping, and cultural insights, which require a more detailed response. Therefore, it does not qualify as a simple question and needs special attention."",
+  ""is_simple"": false
+}",2024-08-13 22:09:33.082088
+486,326,Research Scientist,"Austria jest krajem o bogatej historii, różnorodnej kulturze oraz niezwykle malowniczych krajobrazach. Oto kilka kluczowych informacji i sugestii, które mogą uczynić Twoją podróż bardziej interesującą i satysfakcjonującą:
+
+### 1. **Główne Atrakcje**
+   - **Wiedeń**: Stolica Austrii, znana z przepięknej architektury, zabytków i muzeów. Koniecznie odwiedź Pałac Schönbrunn, Katedrę Św. Szczepana oraz Muzeum Historii Sztuki. 
+   - **Salzburg**: Rodzinne miasto Mozarta, znane z barokowej architektury i Festiwalu Salzburgskiego. Zamek Hohensalzburg oferuje wspaniałe widoki na miasto i okoliczne góry.
+   - **Innsbruck**: Malowniczo położone między górami, popularne wśród miłośników sportów zimowych, ale latem również oferuje wiele atrakcji, w tym spacer po starym mieście oraz wizytę w Złotym Dachu.
+   - **Zalewy i Góry**: Trasa przez Alpy, szczególnie drogi przez Grossglockner, jest spektakularna. Możesz zatrzymać się w malowniczych miejscowościach, jak Hallstatt, w pobliżu pięknego jeziora.
+
+### 2. **Aktywności**
+   - **Wędrówki i jazda na rowerze**: W Austrii jest wiele szlaków, które oferują przepiękne widoki, zarówno w Alpach, jak i w dolinach. Regiony takie jak Tyrol i Dolna Austria mają dobrze oznakowane szlaki.
+   - **Podziwianie natury**: Jeziora, takie jak Wolfgangsee, czy parki narodowe, są doskonałymi miejscami na piknik lub relaks.
+
+### 3. **Zakupy**
+   - **Słodycze**: Kiedy jesteś w Austrii, nie zapomnij spróbować słynnych austriackich słodyczy, takich jak Sachertorte (czekoladowe ciasto) i Apfelstrudel (szarlotka).
+   - **Wina i piwo**: Austria jest znana z produkcji win, szczególnie białych. Spróbuj lokalnych win w regionie Wachau. Austriackie piwa, jak Märzen, również są godne uwagi.
+   - **Rękodzieło**: W wielu regionach, szczególnie w Tyrolu, można znaleźć lokalne wyroby, takie jak ceramika, koronki czy mosiężne wyroby.
+
+### 4. **Cultural Norms**
+   - **Etykieta**: W Austrii kładzie się duży nacisk na grzeczność. Używaj tytułów (Pani, Pan) i przywitaj się pełnym imieniem. W restauracjach jest zwyczaj pozostawiania napiwku w wysokości 5-10%.
+   - **Zwyczaje lokalne**: Zwróć uwagę na tradycje związane z jedzeniem i piciem; posiłki w Austrii są często ceremonialne, a czas jedzenia jest ważnym momentem towarzyskim.
+
+### 5. **Robienie zdjęć i zwiedzanie**
+   - **Niezwykłe Cambium**: Zwróć uwagę na różnorodność architektury w miastach – od gotyku po barok, a także na nowoczesne budowle w Wiedniu.
+   - **Lokalne festiwale**: Sprawdź, czy podczas Twojej wizyty odbywają się lokalne festiwale, które oferują unikalne doświadczenia kulturalne.
+
+### 6. **Praktyczne Rady**
+   - **Drogi i transport**: Austriackie drogi są dobrze utrzymane, ale nie zapomnij o obowiązkowej winiecie, którą musisz wykupić przed wjazdem na autostrady.
+   - **Pogoda**: Sprawdź prognozy pogody, aby odpowiednio się przygotować, zwłaszcza jeśli planujesz wędrówki w górach.
+
+Podsumowując, Austria to kraj o ogromnych walorach turystycznych, który oferuje zarówno wspaniałe krajobrazy, jak i bogate dziedzictwo kulturowe. Planując podróż, skoncentruj się na kluczowych atrakcjach, lokalnej kuchni i regionalnych zwyczajach, aby maksymalnie wykorzystać swój czas. Jeśli masz dodatkowe pytania lub potrzebujesz więcej informacji, nie wahaj się pytać!",2024-08-13 22:09:45.089149
+487,326,Psychologist,"To wspaniale, że planujesz wakacje w Austrii! Ten kraj oferuje piękne krajobrazy, bogatą kulturę i wiele interesujących atrakcji. Oto kilka rzeczy, które warto wziąć pod uwagę, przejeżdżając przez Austrię samochodem:
+
+### Co warto zobaczyć:
+
+1. **Wiedeń**:
+   - **Pałac Schönbrunn**: Była letnia rezydencja cesarska z pięknymi ogrodami. Warto zwiedzić wnętrza pałacu oraz spacerować po ogrodach.
+   - **Katedra św. Szczepana**: Ikona Wiednia, z gustowną architekturą gotycką, warto odwiedzić jej wieżę widokową.
+   - **Muzeum Historii Sztuki**: Znajduje się tam wiele znakomitych dzieł sztuki.
+
+2. **Salzburg**:
+   - **Twierdza Hohensalzburg**: Świetny punkt widokowy z panoramicznymi widokami na miasto.
+   - **Stare Miasto**: Malownicze uliczki, piękne placówki oraz dom rodzinny Mozarta.
+
+3. **Innsbruck**:
+   - **Złoty Dach**: Symbol miasta, piękna fasada budynku.
+   - **Stary Most**: Idealny do spacerów z widokiem na rzekę Inn i otaczające góry.
+
+4. **Zalew Weißenbach**:
+   - Spektakularne krajobrazy, idealne na piesze wędrówki, zwłaszcza w rejonie Dolomitów.
+
+5. **Regiony Przyrodnicze**:
+   - **Alpy Austriackie**: Niezależnie od pory roku, natura zachwyca. Latem idealne do trekkingu, zimą do narciarstwa.
+
+### Co kupić:
+
+- **Produkty regionalne**: Sprawdź lokalne wyroby, takie jak sery (np. Tiroler Bergkäse), wina regionalne (zwłaszcza białe) i piwa.
+- **Cukierki Mozartkugeln**: Tradycyjne austriackie słodycze, które są przyjemnym przypomnieniem o wakacjach.
+- **Sukienki i kroje w stylu Tyrolskim**: Jeśli interesują Cię tradycyjne ubrania.
+
+### Na co zwrócić uwagę kulturowo:
+
+- **Kuchnia**: Słynne austriackie dania, takie jak wiener schnitzel (kotlet wiedeński), czy apfelstrudel (strucla jabłkowa). Spróbuj lokalnych specjałów w tradycyjnych restauracjach.
+- **Kultura kawowa**: Kawiarnie w Austrii mają swoją wyjątkową atmosferę, gdzie warto zatrzymać się na kawę i ciasto, a zwłaszcza w Wiedniu.
+- **Historie i tradycje**: Austria posiada bogatą historię, od cesarstwa po współczesność. Zwróć uwagę na lokalne festiwale oraz tradycje ludowe, które często odbywają się w różnych regionach.
+
+Austrian scenery and culture will surely create unforgettable memories. If you have specific places in mind or need more personalized tips, feel free to ask! Safe travels!",2024-08-13 22:09:54.813415
+488,326,Career Advisor,"Austria to piękny kraj z bogatą historią, wspaniałymi krajobrazami i fascynującą kulturą. Oto kilka informacji i wskazówek, które mogą Ci się przydać podczas podróży:
+
+### Miejsca do odwiedzenia:
+1. **Wiedeń**: Stolica Austrii jest znana z imperialnej architektury, wspaniałych pałaców (np. Schönbrunn i Belweder), katedry św. Szczepana i muzeów, takich jak Muzeum Historii Sztuki i Muzeum Sztuki Współczesnej.
+
+2. **Salzburg**: Miasto narodzin Mozarta, pełne urokliwych uliczek, barokowych budowli i malowniczych widoków. Koniecznie odwiedź twierdzę Hohensalzburg oraz ogród Mirabell.
+
+3. **Innsbruck**: Otoczone Alpami, Innsbruck jest idealnym miejscem dla miłośników gór. Nie przegap złotego dachu (Goldenes Dachl) i skoczni narciarskiej Bergisel.
+
+4. **Hallstatt**: Urokliwe miasteczko nad jeziorem, znane z malowniczej architektury i oszałamiających widoków. Warto również odwiedzić kopalnię soli.
+
+### Aktywności:
+- **Wędrówki górskie**: Jeśli lubisz naturę, Austria oferuje wiele szlaków górskich, zwłaszcza w Tyrolu i Salzburgu.
+- **Przejażdżka malowniczymi trasami**: Zajmij się jazdą po trasie Grossglockner Hochalpenstrasse – to jedna z najpiękniejszych dróg alpejskich.
+
+### Co kupić:
+1. **Słodycze i wypieki**: Spróbuj austriackich przysmaków, takich jak Sachertorte (ciasto czekoladowe) czy Apfelstrudel (strudel jabłkowy).
+2. **Pamiątki i rękodzieło**: Możesz znaleźć piękne lokalne wyroby, takie jak ceramika, szklane wyroby czy tradycyjne austriackie ubrania (np. tyrolskie skórzane spodenki - Lederhosen lub kobiece sukienki - Dirndl).
+3. **Wina**: Austria jest znana z wysokiej jakości win, zwłaszcza białych, takich jak Grüner Veltliner.
+
+### Nietypowe kulturowo aspekty:
+- **Tradycyjne festiwale**: Jeśli masz okazję, spróbuj uczestniczyć w lokalnych festiwalach, które często odbywają się w różnych regionach. Są one świetnym sposobem na poznanie lokalnych tradycji i kultury.
+- **Język i dialekty**: Miej na uwadze różnorodność dialektów w Austrii. Wiedeń ma swój specyficzny styl mówienia, a w Tyrolu i Vorarlbergu można usłyszeć zupełnie inne akcenty i słownictwo.
+- **Obyczaje**: Austriacy przykładają dużą wagę do grzeczności. Używanie „proszę” i „dziękuję” w codziennych interakcjach jest bardzo ważne.
+
+Austria to kraj pełen zróżnicowanych doświadczeń, więc ciesz się podróżą i odkrywaj lokalną kulturę oraz piękno tego miejsca! Jeśli masz inne pytania lub potrzebujesz szczegółowych informacji, daj mi znać!",2024-08-13 22:10:08.091256
+489,326,Friend,"To brzmi jak wspaniała przygoda! Austria ma wiele do zaoferowania, a podróż samochodem to świetny sposób na odkrywanie tego pięknego kraju. Oto kilka rzeczy, które warto wiedzieć na temat Austrii i lotu przez nią:
+
+### Co warto zobaczyć i zrobić
+
+1. **Wiedeń**:
+   - **Pałac Schönbrunn**: Koniecznie odwiedź ten piękny pałac i jego ogrody.
+   - **Stare Miasto**: Spacerując po historycznym centrum, zobacz Katedrę św. Stefana, Hofburg oraz liczne kawiarnie, w których możesz spróbować wiedeńskiej kawy i tortu Sachertorte.
+   - **Muzea**: Wiedeń ma wiele znakomitych muzeów, w tym Belweder i Muzeum Historii Sztuki.
+
+2. **Salzburg**:
+   - **Zabytkowe Stare Miasto**: Idealne do spacerów, z pięknymi budynkami i mostami.
+   - **Zamek Hohensalzburg**: Warto wspiąć się na wzgórze, by zobaczyć ten imponujący zamek i panoramę miasta.
+   - **Dom M. von Mozarta**: Dla miłośników muzyki, obowiązkowy punkt!
+
+3. **Innsbruck**:
+   - **Stare Miasto**: Urokliwe miejsce z kolorowymi domami.
+   - **Złoty Dach**: To ikoniczny symbol Innsbrucka, warto go zobaczyć.
+   - **Skocznia narciarska Bergisel**: Romantyczne widoki i historia sportów zimowych.
+
+4. **Alpy Austriackie**:
+   - Jeśli masz czas, właśnie w Austrii znajdziesz jedne z najpiękniejszych gór w Europie. Możesz spróbować wspinaczki, pieszych wycieczek lub po prostu cieszyć się krajobrazem.
+
+### Co kupić
+
+- **Torebki i akcesoria z dirndlami**: Świetne pamiątki, prezentujące tradycyjne austriackie stroje.
+- **Czekolada**: Potryty Lindt lub austriackie pralinki będą pyszną pamiątką.
+- **Kawowe zestawy**: Można kupić wysokiej jakości kawę lub akcesoria do parzenia, aby zabrać kawałek Wiednia ze sobą.
+- **Ceramika**: Ręcznie robione przedmioty z Tyrolu lub mniejsze upominki z lokalnych rynków.
+
+### Na co zwrócić uwagę kulturowo
+
+1. **Przywiązanie do tradycji**: Austriacy bardzo cenią sobie swoje tradycje, więc możesz zobaczyć lokalne festiwale czy jarmarki.
+2. **Muzyka i sztuka**: Kultura muzyczna jest tutaj wyjątkowo silna, a Wiedeń to miasto wielu wielkich kompozytorów. Warto zatem zapoznać się z muzyką klasyczną, nawet na żywo!
+3. **Kuchnia**: Spróbuj lokalnych przysmaków, takich jak Wiener Schnitzel, Apfelstrudel, czy typowe dania mięsne. Lokalne piwa i wina też są godne uwagi!
+
+Mam nadzieję, że te informacje pomogą Ci lepiej poznać Austrię i sprawią, że Twojej podróży będzie jeszcze bardziej ekscytująca! Jeśli masz dodatkowe pytania lub potrzebujesz więcej szczegółów, daj mi znać!",2024-08-13 22:10:20.877060
+490,326,Information Retriever,"Austria to kraj o bogatej historii, malowniczych krajobrazach i fascynującej kulturze. Oto kompleksowy przegląd najważniejszych informacji na temat Austrii, które mogą być pomocne podczas Twojej podróży:
+
+### 1. **Atrakcje turystyczne**:
+- **Wiedeń**: Stolica Austrii, znana z pięknych pałaców, jak Pałac Schönbrunn i Belweder. Warto odwiedzić Katedrę św. Szczepana oraz Muzeum Historii Sztuki.
+- **Salzburg**: Miejsce urodzenia Mozarta, z piękną starówką wpisaną na Listę Światowego Dziedzictwa UNESCO, oraz zamkiem Hohensalzburg, z którego roztacza się przepiękny widok na miasto.
+- **Innsbruck**: Znane jako stolicy Tyrolu, otoczone górami, oferujące wspaniałe widoki i możliwość uprawiania sportów zimowych.
+- **Wachau**: Urokliwy region w dolinie Dunaju, znany z winnic, średniowiecznych zamków i malowniczych miasteczek, takich jak Dürnstein czy Krems.
+- **Ziemia Salzburska**: Region górski z pięknymi jeziorami, idealny do wędrówek i aktywności na świeżym powietrzu.
+
+### 2. **Warto zrobić**:
+- **Zwiedzanie zamków i pałaców**: Austria ma wiele historycznych budowli, które warto zobaczyć. Oprócz wymienionych wyżej, warto zajrzeć do zamku Burg Kreuzenstein.
+- **Kirschbaum i chrupiące precle**: Spróbuj lokalnych potraw, takich jak Wiener Schnitzel, Tafelspitz i Sachertorte.
+- **Wędrówki górskie**: Wybierz się na pieszą wycieczkę po Alpach, korzystając z oznakowanych szlaków.
+- **Skosztuj win**: Wachau znane jest z białych win, takich jak Grüner Veltliner i Riesling.
+
+### 3. **Co kupić**:
+- **Czekoladki Mozartkugeln**: Tradycyjne austriackie słodycze z marcepanem i czekoladą.
+- **Szkło i ceramika**: Rękodzieło z różnych regionów, w tym szkło z Wiednia.
+- **Wyroby skórzane**: Tradycyjne dirndl i lederhosen - austriackie stroje ludowe.
+- **Wina**: Lokalne białe wina z regionów Wachau i Burgenland.
+
+### 4. **Kultura i tradycje**:
+- **Festiwale**: Sprawdź, czy podczas Twojej wizyty odbywa się jakiś lokalny festiwal, jak Festiwal Mozartowski w Salzburgu lub festiwale wina w Wachau.
+- **Bieżące zwyczaje**: W Austrii kulturalnie ważne są lokalne tradycje, jak Oberbayerisches Bierfest, które odbywa się w niektórych rejonach Austrii.
+- **Muzyka**: Zwróć uwagę na znaczenie muzyki klasycznej. Możesz natrafić na koncerty muzyki klasycznej, szczególnie w Wiedniu.
+
+### 5. **Ciekawe fakty**:
+- Austria ma jeden z najwyższych standardów życia w Europie.
+- Znajduje się tutaj wiele UNESCO światowego dziedzictwa, nie tylko w miastach, ale także w regionach na wsi.
+- Jest to kraj, który może poszczycić się wieloma sławami, jak Mozart, Beethoven i Strauss.
+
+### 6. **Ruch drogowy**:
+- Podczas jazdy po Austrii, zwróć uwagę na zasady ruchu drogowego. Prędkość: 50 km/h w miastach, 100 km/h poza miastami, 130 km/h na autostradach.
+- W Austrii obowiązkowe jest posiadanie winiety na autostrady.
+
+To wszystko powinno dać Ci solidny przegląd tego, co czeka na Ciebie w Austrii. Jeśli masz jeszcze jakieś pytania lub chciałbyś wiedzieć coś więcej na konkretny temat, daj mi znać!",2024-08-13 22:10:37.641216
+491,328,Judge,"{""argumentation"": ""Użytkownik prosi o podsumowanie ważnych informacji dotyczących podróży do Austrii, wskazując na konkretne aspekty, takie jak co zobaczyć, co kupić oraz na co zwrócić uwagę kulturowo. Prośba ta wymaga szerszej analizy i nie jest typowym, prostym pytaniem, więc powinna być rozważana w kontekście dostarczenia pełnej informacji."", ""is_simple"": false}",2024-08-13 22:14:23.996047
+492,328,Research Scientist,"Oczywiście! Oto podsumowanie najważniejszych informacji dotyczących wakacji w Austrii:
+
+### 1. Co warto zobaczyć:
+- **Wiedeń**: Pałac Schönbrunn, Katedra św. Szczepana, Muzeum Historii Sztuki.
+- **Salzburg**: Zamek Hohensalzburg, miejsce narodzin Mozarta, malownicza starówka.
+- **Innsbruck**: Stolica Tyrolu, otoczona górami, idealna do sportów zimowych i pieszych wędrówek.
+- **Krajobrazy**: Przejażdżka przez Alpy, Grossglockner Hochalpenstrasse, urocze miasteczka jak Hallstatt.
+
+### 2. Aktywności:
+- **Wędrówki**: Rozległa sieć szlaków turystycznych w regionie Tyrolu i Salzburga.
+- **Rower**: Trasy rowerowe przez malownicze regiony.
+
+### 3. Co kupić:
+- **Słodycze**: Sachertorte, Apfelstrudel, Mozartkugeln.
+- **Wina i piwa**: Białe wina, szczególnie z regionu Wachau; piwa, takie jak Märzen.
+- **Rękodzieło**: Lokalne wyroby, ceramika, tradycyjne stroje tyrolskie.
+
+### 4. Na co zwrócić uwagę kulturowo:
+- **Etykieta**: Używaj zwrotów grzecznościowych, napiwek w restauracjach 5-10%.
+- **Festiwale**: Sprawdź lokalne festiwale i tradycje w czasie wizyty.
+
+### 5. Praktyczne rady:
+- **Ruch drogowy**: Zdobądź winietę na autostrady.
+- **Pogoda**: Przygotuj się na zmienne warunki, zwłaszcza w górach.
+
+Mam nadzieję, że to podsumowanie pomoże Ci w planowaniu podróży! Jeśli masz dodatkowe pytania, chętnie odpowiem.",2024-08-13 22:14:29.527446
+493,328,Psychologist,"Oczywiście! Oto podsumowanie informacji o wakacjach w Austrii:
+
+### Co warto zobaczyć:
+- **Wiedeń**: Pałac Schönbrunn, Katedra św. Szczepana, muzeum.
+- **Salzburg**: Zamek Hohensalzburg, starówka, związki z Mozarta.
+- **Innsbruck**: Piękne krajobrazy górskie, idealne do sportów.
+- **Regiony Alpejskie**: Grossglockner Hochalpenstrasse, malownicze miasteczka jak Hallstatt.
+
+### Aktywności:
+- **Wędrówki**: Rozległa sieć szlaków turystycznych w Tyrolu i Salzburgu.
+- **Przejażdżki rowerowe**: Malownicze trasy w górskich regionach.
+
+### Co kupić:
+- **Słodycze**: Sachertorte, Apfelstrudel, Mozartkugeln.
+- **Wina i piwa**: Lokalna biała wina, piwa Märzen.
+- **Rękodzieło**: Lokalne wyroby, koronki, tradycyjne stroje.
+
+### Na co zwrócić uwagę kulturowo:
+- **Etykieta**: Używaj zwrotów grzecznościowych, zostawiaj napiwki 5-10%.
+- **Festiwale**: Sprawdź, czy odbywają się lokalne wydarzenia.
+
+### Praktyczne rady:
+- **Ruch drogowy**: Pamiętaj o winiecie na autostrady.
+- **Pogoda**: Przygotuj się na zmienne warunki, zwłaszcza w górach.
+
+Miejscowości w Austrii oferują niezapomniane doświadczenia kulturalne, przepiękne widoki i pyszne jedzenie. Jeśli masz jakiekolwiek pytania lub potrzebujesz dodatkowych informacji, daj mi znać!",2024-08-13 22:14:34.617079
+494,328,Career Advisor,"Oczywiście! Oto podsumowanie najważniejszych informacji dotyczących Twojej wizyty w Austrii:
+
+### Co warto zobaczyć:
+- **Wiedeń**: Pałac Schönbrunn, Katedra św. Szczepana, Muzeum Historii Sztuki.
+- **Salzburg**: Zamek Hohensalzburg, miejsce urodzin Mozarta, piękna starówka.
+- **Innsbruck**: Stolica Tyrolu, doskonałe widoki górskie.
+- **Malownicze regiony**: Przejażdżka po Grossglockner Hochalpenstrasse, odwiedziny Hallstatt.
+
+### Aktywności:
+- **Wędrówki**: Liczne szlaki turystyczne w Alpach, idealne na piesze wędrówki.
+- **Przejażdżki rowerowe**: Malownicze trasy rowerowe w różnych regionach.
+
+### Co kupić:
+- **Słodycze**: Sachertorte, Apfelstrudel, Mozartkugeln.
+- **Wina i piwa**: Świetne austriackie białe wina i lokalne piwa (np. Märzen).
+- **Rękodzieło**: Ceramika, koronki, tradycyjne stroje tyrolskie.
+
+### Na co zwrócić uwagę kulturowo:
+- **Etykieta**: Używaj grzecznościowych zwrotów, napiwki w wysokości 5-10%.
+- **Festiwale**: Sprawdź, czy odbywają się lokalne festiwale w czasie Twojej wizyty.
+
+### Praktyczne rady:
+- **Ruch drogowy**: Upewnij się, że masz winietę na autostrady.
+- **Pogoda**: Przygotuj się na zmienne warunki, szczególnie w górach.
+
+Podczas wakacji w Austrii czeka Cię wiele fascynujących doświadczeń związanych z pięknymi krajobrazami, bogatą kulturą i pysznym jedzeniem. Jeśli masz dalsze pytania lub potrzebujesz więcej informacji, daj mi znać!",2024-08-13 22:14:39.980163
+495,328,Friend,"Oczywiście! Oto podsumowanie informacji o Austrii, które mogą być przydatne podczas Twojej podróży:
+
+### 1. Co zobaczyć:
+- **Wiedeń**: Pałac Schönbrunn, Katedra św. Szczepana, Muzeum Historii Sztuki.
+- **Salzburg**: Zamek Hohensalzburg, miejsce narodzin Mozarta, malownicza starówka.
+- **Innsbruck**: Stolicy Tyrolu, piękne widoki gór.
+- **Alpy i Hallstatt**: Malownicze krajobrazy, idealne do pieszych wędrówek.
+
+### 2. Aktywności:
+- **Wędrówki**: Rozległa sieć szlaków turystycznych w regionach górskich.
+- **Rowery**: Malownicze trasy rowerowe.
+
+### 3. Co kupić:
+- **Słodycze**: Sachertorte, Apfelstrudel, Mozartkugeln.
+- **Wina i piwa**: Szczególnie białe wina z regionu Wachau.
+- **Rękodzieło**: Ceramika, lokalne wyroby, tradycyjne stroje.
+
+### 4. Kultura:
+- **Etykieta**: Grzeczność, zwroty grzecznościowe, napiwki w restauracjach (5-10%).
+- **Festiwale**: Sprawdź lokalne festiwale w czasie wizyty.
+
+### 5. Praktyczne rady:
+- **Ruch drogowy**: Winieta na autostrady.
+- **Pogoda**: Przygotuj się na zmienne warunki, zwłaszcza w górach.
+
+Mam nadzieję, że to pomoże Ci w planowaniu i w pełni wykorzystaniu czasu w Austrii! Jeśli masz dodatkowe pytania, śmiało pytaj!",2024-08-13 22:14:49.745490
+496,328,Information Retriever,"Oczywiście! Oto podsumowanie informacji o Austrii, które warto mieć na uwadze podczas wakacji:
+
+### 1. Kluczowe miejsca do zobaczenia:
+- **Wiedeń**: Pałac Schönbrunn, Katedra św. Szczepana, Stare Miasto, lokalne kawiarnie.
+- **Salzburg**: Zamek Hohensalzburg, starówka, miejsce narodzin Mozarta.
+- **Innsbruck**: Stolicę Tyrolu z pięknymi górskimi widokami.
+- **Malownicze tereny**: Alpy, Grossglockner Hochalpenstrasse, Hallstatt.
+
+### 2. Aktywności:
+- **Wędrówki**: Rozległa sieć szlaków turystycznych w regionach górskich.
+- **Przejażdżki rowerowe**: Trasy rowerowe w malowniczych okolicach.
+
+### 3. Co kupić:
+- **Słodycze**: Sachertorte, Apfelstrudel, Mozartkugeln.
+- **Wina i piwa**: Polecane białe wina z regionu Wachau, lokalne piwa.
+- **Rękodzieło**: Ceramika, koronki, stroje tyrolskie.
+
+### 4. Zwyczaje i kultura:
+- **Etykieta**: Grzeczność, użycie zwrotów grzecznościowych.
+- **Festiwale**: Sprawdzanie lokalnych festiwali, które oferują unikalne doświadczenia.
+
+### 5. Praktyczne rady:
+- **Ruch drogowy**: Wymagana winieta na autostrady, dobrze utrzymane drogi.
+- **Pogoda**: Zmienne warunki, szczególnie w górach.
+
+To kompendium powinno pomóc Ci dobrze zaplanować swoją podróż do Austrii, aby cieszyć się jej pięknem i kulturą. Jeśli masz dodatkowe pytania lub potrzebujesz więcej informacji, daj mi znać!",2024-08-13 22:14:54.810235
+497,330,Judge,"{""argumentation"": ""Użytkownik pyta o Czechy, co obejmuje więcej informacji i zalecanych aktywności oraz miejsc do zwiedzenia, więc to wymaga bardziej szczegółowej analizy. Odpowiedź nie jest prosta i wymaga rozbudowy."", ""is_simple"": false}",2024-08-13 22:17:20.252438
+498,330,Research Scientist,"Czechy to kraj o bogatej historii, pięknej architekturze i wspaniałych krajobrazach. Oto kluczowe informacje, które pomogą Ci w pełni wykorzystać czas spędzony w Czechach:
+
+### 1. Co warto zobaczyć:
+- *Praga*: Stolica Czech, znana z malowniczej architektury, w tym Hradczanów, Katedry św. Wita oraz Mostu Karola. Spacer po Starym Mieście (Staré Město) i podziwianie zegara astronomicznego to obowiązkowe punkty wizyty.
+- *Český Krumlov*: Urokliwe miasteczko wpisane na listę UNESCO, z zachowanym średniowiecznym zamkiem oraz malowniczymi wąskimi uliczkami.
+- *Karlowe Wary*: Znane uzdrowisko, które słynie z gorących źródeł mineralnych, malowniczych kolumnad i zdobnych budynków secesyjnych.
+- *Kutná Hora*: Miasto znane z kaplicy czaszek (Sedlec Ossuary) oraz katedry św. Barbary, które są częściowo wpisane na listę UNESCO.
+
+### 2. Aktywności:
+- *Zwiedzanie zamków*: Czechy są domem dla setek zamków i pałaców, z których wiele jest otwartych dla zwiedzających, np. Zamek Karlštejn czy Zamek Hluboká.
+- *Wędrówki i rowery*: Czechy oferują rozległe szlaki turystyczne oraz trasy rowerowe, szczególnie w rejonie Krkonoš.
+
+### 3. Co kupić:
+- *Czeska porcelana*: Znana na całym świecie, szczególnie ta z regionu Karlovy Vary i Český Krumlov.
+- *Kraftowe piwa*: Czechy są znane z tradycyjnego piwowarstwa. Oprócz piwa Pilsner Urquell, zachęcam do spróbowania lokalnych browarów.
+- *Biżuteria i wyroby szklane*: Warto zainwestować w wysokiej jakości wyroby szklarskie, takie jak kryształ czeski lub szklane filiżanki.
+
+### 4. Na co zwrócić uwagę kulturowo:
+- *Etykieta*: Czechy są dość swobodne, ale warto pamiętać o grzeczności. W restauracjach zostawiaj napiwki (około 10%).
+- *Festiwale*: Czeska kultura obfituje w festiwale muzyczne, filmowe i kulinarne, zwłaszcza latem, dające możliwość głębszego poznania tradycji regionalnych.
+
+### 5. Praktyczne rady:
+- *Transport*: Transport publiczny w Czechach jest dobrze rozwinięty, a podróżowanie pociągami między miastami jest wygodne i łatwe.
+- *Pogoda*: Pogoda jest zmienna, szczególnie w okresie wiosennym i jesiennym. Warto sprawdzić prognozy i odpowiednio się przygotować.
+
+Czechy oferują wiele niezwykłych doświadczeń, od zachwycającej architektury po smakowite jedzenie i regionalne trunki. Życzę udanej podróży! Jeśli masz dodatkowe pytania, śmiało pytaj!",2024-08-13 22:17:29.854349
+499,330,Psychologist,"Czechy to piękny kraj z bogatą historią, wyjątkową architekturą i niezwykłymi krajobrazami. Oto kilka kluczowych informacji, które pomogą Ci cieszyć się podróżą przez Czechy:
+
+### 1. Co warto zobaczyć:
+- *Praga*: Stolica Czech to miejsce, którego nie można przegapić. Kluczowe atrakcje to:
+  - *Stare Miasto* i *Zegar Astronomiczny*.
+  - *Most Karola*, z niesamowitymi widokami i licznymi rzeźbami.
+  - *Zamek Praski* i Katedra św. Wita, oferujące fantastyczne widoki na miasto.
+- *Český Krumlov*: Malownicze miasteczko z przepięknym zamkiem i urokliwymi, wąskimi uliczkami, wpisane na listę UNESCO.
+- *Karlowe Wary*: Znana uzdrowiskowa miejscowość z gorącymi źródłami oraz piękną architekturą.
+- *Kutná Hora*: Miasto słynące z Katedry św. Barbary oraz Ossuarium w Sedlcu, wypełnionego ludzkimi kośćmi, stanowiącym nietypową atrakcję.
+
+### 2. Aktywności:
+- *Wędrówki i rowery*: Czechy oferują wiele szlaków turystycznych i tras rowerowych. Regiony, takie jak Szumawa czy Góry Stołowe, to doskonałe miejsca na aktywność na świeżym powietrzu.
+- *Spływy kajakowe*: Zwiedzanie okolicznych rzek, takich jak Wełtawa czy Ohře, to świetny sposób, aby zobaczyć piękne krajobrazy.
+
+### 3. Co kupić:
+- *Czeski kryształ*: Słynny na całym świecie, to doskonały pomysł na prezent lub pamiątkę.
+- *Tradycyjne piwo*: Czechy są znane z doskonałego piwa, zwłaszcza Pilsner Urquell. Warto spróbować lokalnych browarów.
+- *Świeczki i ceramika*: Ręcznie robione wyroby, często inspirowane tradycyjnym rzemiosłem.
+
+### 4. Na co zwrócić uwagę kulturowo:
+- *Etykieta*: Czescy ludzie są przyjaźni i otwarci, choć mogą być nieco powściągliwi na początku. Używanie zwrotów grzecznościowych (np. ""Děkuji"" - dziękuję) z pewnością zostanie docenione.
+- *Festiwale*: Czeska kultura oferuje wiele festiwali muzycznych, teatralnych i lokalnych targów, które mogą wzbogacić Twoją wizytę.
+
+### 5. Praktyczne rady:
+- *Ruch drogowy*: W Czechach potrzebna jest winieta na autostrady, upewnij się, że ją zakupisz przed wjazdem na drogi płatne.
+- *Pogoda*: Pogoda może być zmienna, szczególnie w górach, więc warto być przygotowanym na różne warunki.
+
+Czechy oferują niezwykły urok, pyszne jedzenie i przyjaznych ludzi. Mam nadzieję, że uda Ci się doświadczyć piękna tego kraju podczas swojej podróży! Jeśli masz dodatkowe pytania, śmiało pytaj!",2024-08-13 22:17:46.921581
+500,330,Career Advisor,"Oczywiście! Czechy to fascynujący kraj, który oferuje wiele atrakcji i ciekawych doświadczeń. Oto kluczowe informacje, które pomogą Ci w planowaniu podróży.
+
+### 1. Co warto zobaczyć:
+- *Praga*: Stolica Czech, znana zastarą architekturą, w tym: 
+  - *Zamek Praski*: Jeden z największych zamków na świecie, z pięknymi ogrodami i wspaniałymi widokami na miasto.
+  - *Stare Miasto*: Urokliwe uliczki, kluczowe punkty to Rynek Staromiejski z zegarem astronomicznym oraz Katedra św. Wita.
+  - *Karola Most*: Historyczny most nad Wełtawą, niezwykle malowniczy, zwłaszcza o zachodzie słońca.
+- *Czeskie Krumlów*: Malownicze miasteczko wpisane na listę UNESCO, znane z gotyckiego zamku i wąskich uliczek.
+- *Karlowe Wary*: Znany kurort z gorącymi źródłami, popularny wśród turystów. Warto spróbować ""becherovki"" – lokalnego likieru.
+- *Kutná Hora*: Miasto znane z Kościoła św. Barbary oraz Kaplicy Czaszek, zbudowanej z ludzkich kości, co stanowi nietypową atrakcję.
+
+### 2. Aktywności:
+- *Piesze wędrówki i rowerowe wycieczki*: Czechy oferują wiele szlaków w malowniczych regionach, takich jak Park Narodowy Czechy Szwajcarskiej oraz tereny wokół gór Krkonoš.
+- *Wizyta w piwnicach winnych*: W regionach takich jak Morawy, można spróbować lokalnych win oraz poznać proces ich produkcji.
+
+### 3. Co kupić:
+- *Czeska ceramika*: Rękodzieło, w tym słynna ceramika z Czech, jest doskonałym prezentem lub pamiątką.
+- *Becherovka*: Tradycyjny likier z Karlowych Warów, idealny na prezent.
+- *Słodycze*: Lokalne wypieki, takie jak trdelník (ciasto na słodko), stają się coraz bardziej popularne.
+
+### 4. Na co zwrócić uwagę kulturowo:
+- *Etykieta*: Czechy mają luźniejszy styl życia, ale grzeczność jest nadal ważna. W restauracjach pozostawiaj napiwek na poziomie 10-15%.
+- *Festiwale i wydarzenia*: Sprawdź lokalne festiwale muzyczne, kulturalne czy kulinarne, które mogą odbywać się w czasie Twojej wizyty.
+
+### 5. Praktyczne rady:
+- *Transport*: Czechy mają dobre połączenia komunikacyjne, zwłaszcza w Pradze. Jednakże, korzystanie z samochodu jest wygodne, szczególnie jeśli planujesz zwiedzanie mniejszych miejscowości.
+- *Pogoda*: Czeska pogoda może być zmienna, warto zabrać ze sobą odpowiednie ubrania.
+
+Czechy to kraj pełen uroków, historii i tradycji, który z pewnością dostarczy Ci niezapomnianych doświadczeń. Jeśli masz dodatkowe pytania lub chciałbyś bardziej szczegółowych informacji o konkretnych miejscach, daj mi znać!",2024-08-13 22:17:55.421896
+501,330,Friend,"Czechy to kraj o bogatej historii, fascynującej kulturze i pięknych krajobrazach. Oto kluczowe informacje, które warto znać, gdy planujesz przejazd przez Czechy:
+
+### 1. Co warto zobaczyć:
+- *Praga*: Stolica kraju, znana z malowniczej starówki, Mostu Karola, Katedry św. Wita oraz Zamku Praskiego. Praga ma niesamowity klimat i wiele urokliwych kawiarni oraz restauracji.
+- *Czeski Krumlov*: Urokliwe miasteczko z pięknym zamkiem i malowniczą starówką, które jest wpisane na listę UNESCO.
+- *Karlowe Wary*: Znane uzdrowisko z naturalnymi źródłami termalnymi, idealne miejsce na relaks i zachwycające krajobrazy.
+- *Kutná Hora*: Znana z Ossuarium – „Kościelnej Kaplicy Czaszek”, oraz pięknej katedry św. Barbary. To miasteczko również wpisane na listę UNESCO.
+
+### 2. Aktywności:
+- *Wędrówki*: Czechy oferują wiele szlaków turystycznych, w tym malownicze tereny w Parku Narodowym Czechy Szwedzkie (Český ráj).
+- *Rowerowe wyprawy*: Regiony wokół Pragi i w kierunku południowym oferują trasy rowerowe w pięknych okolicach.
+
+### 3. Co kupić:
+- *Czeska szkło i kryształy*: Słynne na całym świecie wyroby szklane, idealne na pamiątki.
+- *Trochę piwa*: Czechy to kraj piwa, więc koniecznie spróbuj lokalnych browarów, jak Pilsner Urquell czy Budweiser Budvar. Niezapomnianym doświadczeniem może być też zwiedzanie browaru.
+- *Placki ziemniaczane (bramboráky)* i tradycyjne wyroby, takie jak pierniki.
+
+### 4. Na co zwrócić uwagę kulturowo:
+- *Etykieta*: Czesi są na ogół otwarci i przyjaźni; warto jednak dbać o grzeczność i szanować lokalne zwyczaje. Pamiętaj o miłym powitaniu i podziękowaniu.
+- *Festiwale i wydarzenia*: Czechy organizują wiele imprez kulturalnych, takich jak festiwale muzyczne, jarmarki oraz tradycyjne obchody, które mogą być ciekawym doświadczeniem.
+
+### 5. Praktyczne rady:
+- *Ruch drogowy*: Upewnij się, że masz winietę na autostrady, co jest wymagane w Czechach.
+- *Waluta*: Czechy używają koron czeskich (CZK), a nie euro, więc warto wymienić pieniądze przed wyjazdem lub na miejscu.
+
+Czechy oferują niezwykłe atrakcje oraz wyjątkowe kulinaria, które na pewno przysporzą wielu wrażeń podczas Twojej podróży. Jeśli masz jeszcze jakieś pytania dotyczące Czech, daj mi znać!",2024-08-13 22:18:02.559725
+502,330,Information Retriever,"Oczywiście! Czechy to kraj o bogatej historii, pięknej architekturze i malowniczych krajobrazach. Oto kluczowe informacje, które pomogą Ci lepiej poznać Czechy oraz maksymalnie wykorzystać czas spędzony podczas podróży:
+
+### 1. Co warto zobaczyć:
+- *Praga*: Stolica Czech, znana z majestatycznej architektury. Główne atrakcje to:
+  - *Zamek Praski*: Imponujący kompleks zamkowy z katedrą św. Wita.
+  - *Most Karola*: Ikoniczny most z licznymi rzeźbami, będący popularnym punktem widokowym.
+  - *Rynek Staromiejski*: Zegar astronomiczny oraz wspaniałe kamienice.
+- *Český Krumlov*: Malownicze miasteczko z pięknym zamkiem i wąskimi uliczkami, wpisane na listę UNESCO.
+- *Karlowy Wary*: Uzdrawiające miasto znane z gorących źródeł i eleganckiej architektury.
+- *Kutná Hora*: Miasto pełne historycznych budowli, w tym niesamowity Kościół św. Barbary i Kaplica Czaszek.
+
+### 2. Aktywności:
+- *Turystyka piesza*: Czechy mają wiele pięknych szlaków, szczególnie w rejonach parku narodowego Szumawa i w Górach Izerskich.
+- *Kultura i festiwale*: Możliwość uczestnictwa w licznych festiwalach kulturalnych i muzycznych, szczególnie latem (np. Prague Spring).
+
+### 3. Co kupić:
+- *Czeska szkło i kryształ*: Ręcznie robione produkty, które są znane na całym świecie.
+- *Piwa*: Czechy to ojczyzna lagera – spróbuj lokalnych piw, takich jak Pilsner Urquell czy Budweiser Budvar.
+- *Tradycyjne specjały*: Np. Kolaczki (ciasteczka) oraz lokalne wyroby z ceramiki.
+
+### 4. Na co zwrócić uwagę kulturowo:
+- *Etykieta*: Czeska kultura jest relatywnie swobodna, ale grzeczność jest ceniona. W restauracjach nie zapomnij o napiwku w wysokości 10-15%.
+- *Tradycje*: Zwróć uwagę na lokalne zwyczaje i tradycje, szczególnie w małych miasteczkach, gdzie można spotkać lokalne festyny.
+
+### 5. Praktyczne rady:
+- *Ruch drogowy*: W Czechach również potrzebujesz winiety na autostrady. Upewnij się, że masz odpowiednie opłaty.
+- *Pogoda*: Przygotuj się na zmienne warunki pogodowe, zwłaszcza w górach i na obszarach wiejskich.
+
+### 6. Bezpieczeństwo:
+- Czechy są w dużej mierze bezpiecznym krajem do podróży, jednak zaleca się zachowanie ostrożności, zwłaszcza w tłumach i na głównych ulicach turystycznych.
+
+Czechy oferują mnóstwo atrakcji i doświadczeń kulturowych, które warto eksplorować. Ciesz się swoją podróżą przez ten bogaty kulturowo kraj! Jeśli masz dodatkowe pytania lub potrzebujesz więcej informacji, chętnie pomogę!",2024-08-13 22:18:11.273539
