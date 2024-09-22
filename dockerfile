@@ -16,6 +16,9 @@ COPY . .
 # Copy the database_mvp directory into the container
 COPY ./database_mvp ./database_mvp
 
+# Copy the agent_logic directory into the container
+COPY ./agent_logic ./agent_logic
+
 # Set environment variable to prevent Python from buffering stdout and stderr
 ENV PYTHONUNBUFFERED=1
 
