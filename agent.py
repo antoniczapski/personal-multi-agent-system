@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import os
 import pandas as pd
 import requests
+from agent_logic.agent import ResponseConstructor
 
 load_dotenv()  # take environment variables from .env.
 
@@ -10,34 +11,31 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 client = openai.OpenAI(api_key=OPENAI_API_KEY)
 
-def qa(messages, response_url, headers, data, message_ts):
-    response = client.chat.completions.create(
-                model="gpt-4o-mini-2024-07-18",
-                messages=[{"role": "system", "content": "Your name is Orion. You are a omniscient AI. You can answer any question."}]+messages[-10:]
-            )
-    first_thread_message = {'role': 'First responder', 'content': 'test 1'}
-    first_timestamp = pd.Timestamp.now()
+responder = ResponseConstructor()
+
+def post_message(role, message, response_url, headers, data, message_ts):
+    thread_message = {'role': role, 'content': message}
+    timestamp = pd.Timestamp.now()
     thread_response_data = data.copy()
-    thread_response_data['text'] = first_thread_message['content']
+    thread_response_data['text'] = f'*{role}:*\n{message}\n\n'
     thread_response_data['thread_ts'] = message_ts
     _ = requests.post(url=response_url, headers=headers, data=thread_response_data)
+    return thread_message, timestamp
 
-    second_thread_message = {'role': 'Second responder', 'content': 'test 2'}
-    second_timestamp = pd.Timestamp.now()
-    thread_response_data['text'] = second_thread_message['content']
-    thread_response_data['thread_ts'] = message_ts
-    _ = requests.post(url=response_url, headers=headers, data=thread_response_data)
-    
-    third_thread_message = {'role': 'Third responder', 'content': 'test 3'}
-    third_timestamp = pd.Timestamp.now()
-    thread_response_data['text'] = third_thread_message['content']
-    thread_response_data['thread_ts'] = message_ts
-    _ = requests.post(url=response_url, headers=headers, data=thread_response_data)
-    
-    agent_messages = [first_thread_message, second_thread_message, third_thread_message]
-    timestamps = [first_timestamp, second_timestamp, third_timestamp]
-    return agent_messages, timestamps, response.choices[0].message.content
+def post_process(response):
+    # replace '**' with single '*' for bold formatting
+    response = response.replace('**', '*')
+    return response
 
+def qa(messages, response_url, headers, data, message_ts):
+    def post_thread(role, response, thread_messages, timestamps):
+        thread_message, timestamp = post_message(role, response, response_url, headers, data, message_ts)
+        thread_messages.append(thread_message)
+        timestamps.append(timestamp)
+
+    response, agent_messages, timestamps = responder(messages[-20:], post_thread)
+    response = post_process(response)
+    return agent_messages, timestamps, response
 
 if __name__ == '__main__':
     # print(qa("What is the capital of France?"))
